@@ -61,7 +61,7 @@ Follow the same steps as above, making sure to install any necessary dependencie
 - **Issue Tracker:** [https://github.com/your-username/tax-assistant/issues](https://github.com/your-username/tax-assistant/issues)
 
 ## Contact
-- **Email:** your-email@example.com
+- **Email:** your-chiluka.akshitha05@gmail.com
 - **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/akshitha-chiluka-b19245259/)
 
 ## License
