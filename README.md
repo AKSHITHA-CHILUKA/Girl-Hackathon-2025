@@ -1,4 +1,4 @@
-# Tax Assistant Application
+# AI Tax Assistant Application
 
 ## Description
 
